@@ -27,12 +27,12 @@ function playingRound(humanChoice, computerChoice) {
 }
 
 function ShowingTheScore(computerChoice) {
-    if (computerScore === 3) {
+    if (computerScore === 5) {
         div.textContent = "Computer wins";
         div.style.color = "purple"
         DisablingButtons();
     }
-    else if (humanScore === 3) {
+    else if (humanScore === 5) {
         div.textContent = "Congrats,You Win The Game"
         div.style.color = "red";
         DisablingButtons();
