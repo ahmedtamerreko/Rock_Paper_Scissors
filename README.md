@@ -1,2 +1,3 @@
 # Rock_Paper_Scissors
-# play simple rock_paper_scissors against computer using console
+# play simple UI Rock Paper Scissors against computer
+# Note : who reach score 3 , win The Game
